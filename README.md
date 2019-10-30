@@ -1,2 +1,2 @@
-# neardalive.github.io
-tech blog
+# notes
+ projects/works done by me
